@@ -19,5 +19,5 @@ redirect_from:
   * Applied Bioinformatics Division, German Cancer Research Center
 * *06/2014 – 02/2019* \| PhD student
   * Applied Bioinformatics Division, German Cancer Research Center
-* *2011 – 2014* \| Biostatistician
+* *09/2011 – 08/2014* \| Biostatistician
   * Laboratory of Prenatal Diagnosis of Congenital and Inherited Diseases, D.O. Ott Research Institute (St.Petersburg, Russia)
