@@ -8,4 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoc in Applied Bioinformatics Division at German Cancer Research Center (DKFZ) 
+I am a postdoc in Applied Bioinformatics Division at German Cancer Research Center (DKFZ)
+My research interests are focused around computational methods in drug discovery and development, from de-novo drug design and QSAR modelling to biomarker identification and drug response / survival prediction.
