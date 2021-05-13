@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+n# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Roman Kurilov"
   avatar           : "profile.jpg"
-  bio              : "postdoc at DKFZ"
+  bio              : "postdoc at German Cancer Research Center"
   location         : "Heidelbrg, Germany"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
